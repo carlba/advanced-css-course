@@ -7,3 +7,8 @@ has been renamed to [README.orig.md](README.orig.md).
 
 [Udemy Course Material](https://www.udemy.com/course/advanced-css-and-sass/)
 
+## Sections
+
+## 6. Building the Header - Part 1
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274400#overview
+
